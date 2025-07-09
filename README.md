@@ -75,7 +75,7 @@ A PyQt6-based GUI application for automating GROMACS 2025.1 molecular dynamics s
 - **OS**: Windows 10/11 (64-bit)
 - **Python**: 3.8+ (Recommend Anaconda/Miniconda)
 - **GROMACS**: Version 2025.1
-   - Use the prebuilt Windows binary with CUDA GPU support from: [GROMACS 2025.1 Prebuilt Windows CUDA](https://github.com/Arifmaulanaazis/Gromacs-2025.1-Prebuild-Windows/)
+   - Use the prebuilt Windows binary with CUDA GPU support from: [GROMACS 2025.1 Prebuilt Windows CUDA](https://github.com/Arifmaulanaazis/Gromacs-Prebuild-Windows/)
    - This prebuilt includes CUDA 12.1 support for NVIDIA GPUs and is compiled with Visual Studio 2022.
 
 - **GPU Users**: 
